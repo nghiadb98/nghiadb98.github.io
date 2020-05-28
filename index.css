@@ -1,0 +1,33 @@
+body{
+    background: silver;
+}
+.form-cv{
+    font-family: 'Roboto',sans-serif;
+    width: 100%;
+    position: relative;
+    font-size: 14px;
+    line-height: 24px;
+}
+.clear{
+    clear: both;
+}
+.box-name{
+    margin-top: 250px;
+    float: left;
+    margin-left: 150px;
+}
+.header-cv{
+    float: left;
+}
+.avt-cv{
+    display: inline;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+img{
+    border-radius: 50%;
+}
+.info{
+    margin-left: 600px;
+    margin-top: 70px;
+}

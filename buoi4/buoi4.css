@@ -1,0 +1,43 @@
+.logo-header{
+    visibility: visible; 
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    padding-left: 150px;
+    top: 15px;
+    margin-right: 0;
+    z-index: 1;
+    float: left;
+}
+.search{
+    border: solid 1px black ;
+    background: #fff;   
+    font-size: 12px;
+    padding: 5px 40px 5px 15px;
+    border-right: 0;
+    border-radius: 2px;
+    border: 0;
+    margin-left: 500px;
+    margin-top: 25px;
+    float: left;
+}
+.relative{
+    position: relative;
+}
+.grocery-cart{
+    display: block;
+    padding-left: ;
+   
+}
+.container{
+    background: #f1f0f1;
+    -webkit-box-shadow: rgba(0,0,0,.25) 0 2px 1px -1px;
+    box-shadow: 0 2px 1px -1px rgba(0,0,0,.25);
+    position: relative;
+}
+.menu-list{
+    background: #fff;
+    position: absolute;
+    z-index: 190;   
+    box-sizing: inherit;
+}

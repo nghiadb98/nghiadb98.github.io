@@ -1,0 +1,1 @@
+alert('Bấm Ô Kê đi sẽ thấy điều kỳ diệu nhé!!!')
